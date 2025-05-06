@@ -7,3 +7,5 @@ DATA COLLECTION part takes around 10 minutes to fetch data.
 
 Recommend running all code before DATA COLLECTION then 
 skip to DATA CLEANING AND PREPROCESSING.
+
+Ayaz Naeem, Suhas Murthy, Vic Lin 
